@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>基于GPT-SoVITS的Emilia在线语音生成器</title>
+    <url>/2024/06/27/EmiliaVoice/</url>
+    <content><![CDATA[<p>本项目是一个在线的克隆音色生成器，可以模仿Emilia的音色</p>
+<p>项目托管在Huggingface上，可体验在线生成</p>
+<p><a href="https://huggingface.co/spaces/nickdu3/EmiliaVoice">点我体验</a></p>
+<p>（可能需要科学上网）</p>
+<p>因为穷，买不起算力，在线生成速度确实稍微慢了点</p>
+<p>想本地体验的可以下载我们训练好的模型（在trained文件夹里）</p>
+<h2 id="本地体验"><a href="#本地体验" class="headerlink" title="本地体验"></a>本地体验</h2><p>1.下载GPT-SoVITS</p>
+<p>​	<a href="https://www.123pan.com/s/5tIqVv-GVRcv.html">123盘下载</a></p>
+<p>​	<a href="https://pan.baidu.com/share/init?surl=OE5qL0KreO-ASHwm6Zl9gA&pwd=mqpi">百度网盘</a></p>
+<p>​	<a href="https://github.com/RVC-Boss/GPT-SoVITS">GitHub项目地址</a></p>
+<p>2.如果是压缩包，请解压。打开文件来到根目录，双击go-webui.bat打开，稍加等待就会有网页了</p>
+<h2 id="待解决的问题"><a href="#待解决的问题" class="headerlink" title="待解决的问题"></a>待解决的问题</h2><p>因为是用日语素材训练出来的，生成的中文语音还稍微有些奇怪，后续打算使用一些网络上的中文素材继续训练</p>
+<p>GPT-SoVITS-Interface支持多人物、多情感，但由于时间问题，我们只训练好了一个人物的一个情感</p>
+<p>目前的前端页面是完全来自GPT-SoVITS的，相对没有那么美观</p>
+<h1 id="欢迎在这里交流"><a href="#欢迎在这里交流" class="headerlink" title="欢迎在这里交流"></a></center>欢迎在这里交流</center></h1>]]></content>
+  </entry>
+  <entry>
     <title>第一篇博客</title>
     <url>/2024/05/01/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
     <content><![CDATA[<p>一直想搞一个个人博客，正好赶上五一放假，看网上教程搞了一下</p>
